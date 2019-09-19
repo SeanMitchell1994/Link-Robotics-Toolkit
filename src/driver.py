@@ -1,5 +1,5 @@
 from chain import Chain
 
-arm = Chain(2,3)
+arm = Chain()
 print(arm.Get_Num_Joints())
 print(arm.Get_Num_Links())
